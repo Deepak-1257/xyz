@@ -1,0 +1,2 @@
+# mynotes
+ keep everything simple
